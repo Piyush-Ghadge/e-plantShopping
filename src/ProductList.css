@@ -211,6 +211,12 @@ body {
     cursor: pointer;
   }
   
+  .cart_quantity_count {
+    margin-top: 16px;
+    margin-left: 27px;
+    position: absolute;
+    font-size: 29px;
+}
   .product-button:hover {
     background-color: #45a049;
   }
